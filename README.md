@@ -1,9 +1,11 @@
 **********************Outils utilises**********************
-java 17
+# java 17
 
-Docker
+# Docker
 
-maven
+# maven
+
+
 ***************************************Utilisation des services pour configurer Docker Compose**************************************
 Le fichier docker-compose.yml spécifie la configuration des services Docker. Voici une vue d'ensemble de la configuration :
 
