@@ -50,5 +50,7 @@ Les volumes Docker sont comme des boîtes de stockage qui gardent les données m
 
 <img width="959" alt="databas addmiin" src="https://github.com/momojrdev/admin-app-test/assets/123044247/67486505-5820-43ca-ac69-b384ab4b7d02">
 
+<img width="939" alt="db" src="https://github.com/momojrdev/admin-app-test/assets/123044247/c9b34efe-88de-4040-9256-353e9f964231">
+Dans cette dernierre capture vous voyes les roles creer mais si vous constatez bien apres les tests j ai supprime l id:3 qui signifie que mes tests unitaires sont bien passes.
 
 
